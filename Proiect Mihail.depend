@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1589375740 source:c:\users\preda\desktop\c++\proiect mihail\main.cpp
+	<iostream>
+	<string>
+	"include/Dictionary.h"
+
+1589373928 source:c:\users\preda\desktop\c++\proiect mihail\src\dictionary.cpp
+	"Dictionary.h"
+
+1589376233 c:\users\preda\desktop\c++\proiect mihail\include\dictionary.h
+	<sstream>
+	<vector>
+
